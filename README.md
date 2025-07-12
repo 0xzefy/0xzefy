@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Zefy%20GitHub%20&center=true&width=300&height=40&color=FFD700&vCenter=true&size=22" alt="Typing SVG">
 </p>
 
-<img src="https://github.com/github-copilot/chat/attachments/ae5df8da-7d44-45df-9561-b524e6bf4d56" width="75" alt="Profile Picture"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJlcWV0aWJuZm1la2Z4bHE4cHQzZ2h2N3J3Z2xyYW5ibmVsNTc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T39xVRtzPu2TsbR7US/giphy.gif" width="75" alt="Profile Picture"/>
 
 
 
